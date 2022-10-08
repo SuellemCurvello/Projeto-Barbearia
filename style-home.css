@@ -1,0 +1,48 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+#banner {
+	width: 100%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding:  30px;
+}
+
+.titulo-principal{
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px;
+}
+
+em strong{
+	color: red;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.beneficios{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 26%;
+}
+
+.imagembeneficios{
+	width: 40%;
+}
